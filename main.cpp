@@ -1,0 +1,3 @@
+i not negr
+:wq
+
